@@ -23,6 +23,10 @@ A modern, production-ready Next.js template with Supabase integration, built for
 - **State Management**: React Context API
 - **Styling**: CSS-in-JS with Material-UI
 
+## Project Rails
+
+This project follows a structured development workflow with persistent documentation artifacts. Before implementing features, review [PRD.md](./PRD.md) for product requirements, [PROJECT_STRUCTURE.md](./PROJECT_STRUCTURE.md) for architectural conventions, [WORKFLOW.md](./WORKFLOW.md) for the development process, and [ADR.md](./ADR.md) for architectural decisions. The workflow enforces: types → tests → code → ADR update to maintain consistency and quality.
+
 ## Getting Started
 
 ### Prerequisites

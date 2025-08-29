@@ -110,3 +110,9 @@ When adding new features:
 2. Clean up subscriptions on component unmount
 3. Handle connection state changes
 4. Implement optimistic updates for better UX
+
+## Development Rails
+
+Always read PRD.md, PROJECT_STRUCTURE.md, WORKFLOW.md, ADR.md before coding.
+Log decisions in ADR.md after each significant change.
+Refuse feature implementation if types/tests are missing; ask to create them first.
